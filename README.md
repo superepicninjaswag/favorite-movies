@@ -1,1 +1,1 @@
-This project demonstrates basic proficiency with HTML and CSS.
+A simple webpage I made to relearn HTML and CSS basics.
